@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="648px" height="377px" viewBox="0 0 648 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gestures</title>
+    <g id="gestures" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="648" height="377"></rect>
+        <g id="velocity" transform="translate(0.000000, 226.000000)">
+            <path d="M12,85 C53,85 84.0003493,119.040215 117,119.040215 C169,119.040215 209.57971,15.8264465 261,19.0402147 C293,21.0402147 365,82.0402147 423,82.0402147 C480.503136,82.0402147 492.079841,67.0402147 550,67.0402147 C571.333333,67.0402147 603.666667,73.0402147 647,85.0402147" stroke="#D8D8D8" stroke-dasharray="6,3"></path>
+            <g id="absolute-velocity" transform="translate(12.000000, 19.000000)" stroke="#E02020" stroke-width="2">
+                <path d="M504,50 C513.716565,48.7244124 524.336952,48.0735222 538,48.0735222 C545.160291,48.0735222 553.559769,48.7494421 563.198433,50.1012818" id="Path"></path>
+                <path d="M176,50 C199.406644,24.2271068 222.920474,-1.55644818 249,0.0735222146 C271.51731,1.48085411 313.840451,32.1017861 357.154893,50.1262527" id="Path" stroke-linecap="square"></path>
+                <path d="M2.84217094e-14,15.9597853 C41,15.9597853 72.0003493,50 105,50 C130.597406,50 153.281933,25.0144532 176,-7.10542736e-15" id="Path" transform="translate(88.000000, 25.000000) scale(1, -1) translate(-88.000000, -25.000000) "></path>
+                <path d="M356.988828,37 C375.284064,44.6272305 393.760465,50.0164382 411,50.0164382 C455.464816,50.0164382 472.795336,41.0836923 505,37.0164382" id="Path" transform="translate(430.994414, 43.508219) scale(1, -1) translate(-430.994414, -43.508219) "></path>
+                <path d="M562.664565,34 C575.44154,35.767239 599.553352,41.1161058 635,50.0466005" id="Path" transform="translate(598.832282, 42.023300) scale(1, -1) translate(-598.832282, -42.023300) "></path>
+            </g>
+            <g id="axes">
+                <line x1="12" y1="120" x2="12" y2="0" id="Path-3" stroke="#000000"></line>
+                <line x1="14" y1="70" x2="10" y2="70" id="Path-4" stroke="#000000"></line>
+                <line x1="12" y1="70" x2="647" y2="70" id="Path-5" stroke="#000000"></line>
+                <text id="0" font-family="SFProRounded-Bold, SF Pro Rounded" font-size="12" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="74">0</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="thresholds" transform="translate(198.000000, 263.000000)" stroke="#979797" stroke-linecap="square">
+            <line x1="0.5" y1="0.5" x2="0.5" y2="80.5" id="Line"></line>
+            <line x1="152" y1="0.5" x2="152" y2="80.5" id="Line-Copy-2"></line>
+            <line x1="184" y1="0.5" x2="184" y2="80.5" id="Line-Copy-3"></line>
+            <line x1="301" y1="0.5" x2="301" y2="80.5" id="Line-Copy-4"></line>
+        </g>
+        <g id="peaks" transform="translate(188.000000, 226.000000)" stroke="#979797" stroke-dasharray="3,3" stroke-linecap="square">
+            <line x1="70.5" y1="0.5" x2="70.5" y2="80.5" id="Line"></line>
+            <line x1="181.5" y1="0.5" x2="181.5" y2="80.5" id="Line"></line>
+            <line x1="238.5" y1="0.5" x2="238.5" y2="80.5" id="Line"></line>
+            <line x1="329.5" y1="0.5" x2="329.5" y2="119.5" id="Line"></line>
+            <line x1="0.5" y1="0.5" x2="0.5" y2="119.5" id="Line"></line>
+        </g>
+        <g id="labels" transform="translate(18.000000, 66.000000)" fill="#000000" font-size="14">
+            <text id="peak-1" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="221.118652" y="154">peak 1</tspan>
+            </text>
+            <text id="tongue-tip-displacem" font-family="SFProRounded-Light, SF Pro Rounded" font-weight="300">
+                <tspan x="0" y="13">tongue tip</tspan>
+                <tspan x="0" y="29">displacement</tspan>
+            </text>
+            <text id="velocity" font-family="SFProRounded-Light, SF Pro Rounded" font-weight="300">
+                <tspan x="0" y="170">velocity</tspan>
+            </text>
+            <text id="peak-2" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="392.257324" y="154">peak 2</tspan>
+            </text>
+            <text id="maximum-displacement" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="306.133301" y="138">maximum</tspan>
+                <tspan x="294.214844" y="154">displacement</tspan>
+            </text>
+            <text id="gesture-onset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="156.520508" y="294">gesture</tspan>
+                <tspan x="162.977051" y="310">onset</tspan>
+            </text>
+            <text id="gesture-offset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="454.520508" y="294">gesture</tspan>
+                <tspan x="460.026855" y="310">offset</tspan>
+            </text>
+            <text id="nucleus-onset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="285.898438" y="294">nucleus</tspan>
+                <tspan x="292.977051" y="310">onset</tspan>
+            </text>
+            <text id="nucleus-offset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="355.898438" y="294">nucleus</tspan>
+                <tspan x="362.026855" y="310">offset</tspan>
+            </text>
+        </g>
+        <path d="M12,104.959956 C103,104.959956 140.538763,182 185,182 C244,182 263,85.0002149 383,85.0002149 C435.448343,85.0002149 432,104.959956 516,104.959956 C546,104.959956 565,82.9600048 598,83 C614.944423,83.0207951 630.944423,84.3541986 646,87.0002105" id="displacement" stroke="#000000"></path>
+        <g id="segmentation" transform="translate(12.000000, 38.000000)">
+            <line x1="0" y1="0.5" x2="634" y2="0.5" id="Path-2" stroke="#000000"></line>
+            <path id="Path-2-Copy-2" d="M80,-3.5 L80,0 L634,0 L634,1 L80,1 L80,4.5 L79,4.5 L79,-3.5 L80,-3.5 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Path-2-Copy-3" d="M297,-3.5 L297,0 L634,0 L634,1 L297,1 L297,4.5 L296,4.5 L296,-3.5 L297,-3.5 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Path-2-Copy-4" d="M422,-3.5 L422,0 L634,0 L634,1 L422,1 L422,4.5 L421,4.5 L421,-3.5 L422,-3.5 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Path-2-Copy" d="M555,-3.5 L555,0 L634,0 L634,1 L555,1 L555,4.5 L554,4.5 L554,-3.5 L555,-3.5 Z" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+        <g id="word" transform="translate(190.000000, -7.000000)" fill="#000000" font-family="SFProRounded-Medium, SF Pro Rounded" font-size="24" font-weight="400">
+            <text id="a">
+                <tspan x="0" y="23">a</tspan>
+            </text>
+            <text id="t">
+                <tspan x="174" y="23">t</tspan>
+            </text>
+            <text id="a">
+                <tspan x="303" y="23">a</tspan>
+            </text>
+        </g>
+        <polygon id="Rectangle" fill-opacity="0.3" fill="#D8D8D8" points="188 71 518 71 518 191 188 191"></polygon>
+    </g>
+</svg>
