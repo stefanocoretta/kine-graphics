@@ -60,12 +60,12 @@
                 <tspan x="454.520508" y="294">gesture</tspan>
                 <tspan x="460.026855" y="310">offset</tspan>
             </text>
-            <text id="nucleus-onset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
-                <tspan x="285.898438" y="294">nucleus</tspan>
+            <text id="plateau-onset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="287.132324" y="294">plateau</tspan>
                 <tspan x="292.977051" y="310">onset</tspan>
             </text>
-            <text id="nucleus-offset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
-                <tspan x="355.898438" y="294">nucleus</tspan>
+            <text id="plateau-offset" font-family="SFProRounded-Bold, SF Pro Rounded" font-weight="bold">
+                <tspan x="357.132324" y="294">plateau</tspan>
                 <tspan x="362.026855" y="310">offset</tspan>
             </text>
         </g>
